@@ -15,3 +15,18 @@ A fully functional ToDoList app that allows users to create, manage, and priorit
 1. Clone the repository:
    ```bash
    git clone https://github.com/ShahinSiddiqui/todo_list.git
+   
+## Structure
+todo_list_app
+|-- lib/
+|   |-- main.dart
+|   |-- screens/
+|   |-- models/
+|   |-- controllers/
+|-- pubspec.yaml
+|-- assets/
+|-- test/
+|-- README.md
+|-- writeup.md (if separate from README)
+|-- demo-video.mp4
+
